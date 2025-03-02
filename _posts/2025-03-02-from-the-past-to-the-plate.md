@@ -4,7 +4,8 @@ title: "From the Past to the Plate: Harnessing Ancient DNA for Future Food Secur
 date: 2025-03-02
 permalink: /from-the-past-to-the-plate/
 category: [AEGIS]
-tags: [eDNA, AEGIS, ]
+tags: [eDNA, AEGIS]
+comments: false
 ---
 
 ## A Bold new era in sustainable agriculture
