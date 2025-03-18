@@ -5,6 +5,7 @@ location: Fredensborg, Denmark
 category: [CAEG]
 tags: [eDNA, CAEG]
 comments: false
+permalink: /caeg-symposium-2025/
 ---
 
 We are happy to invite you to the upcoming **Symposium on Ancient Environmental Genomics**, organized by the Center for Ancient Environmental Genomics (CAEG), scheduled for **April 3–4, 2025** in [**Fredensborg**](https://en.wikipedia.org/wiki/Fredensborg) just 30 minutes from Copenhagen.
